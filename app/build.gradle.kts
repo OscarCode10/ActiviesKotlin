@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.oscarcode10.activieskotlin"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.oscarcode10.activieskotlin"
